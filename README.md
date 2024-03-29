@@ -24,5 +24,5 @@ To compile and run Cimple programs, follow these steps:
  Thanks to Prof. Georgios Manis and the University of Ioannina for the initial concept and guidance.
 
 Cs team:
-Dafnakis Georgios 
+Dafnakis Georgios,
 Tsapikouni Georgia 
